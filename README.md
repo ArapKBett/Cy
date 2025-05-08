@@ -13,3 +13,8 @@ A Telegram and Discord bot that scrapes cybersecurity jobs from Indeed, LinkedIn
 1. **Install Python 3.8+** and dependencies:
    ```bash
    pip install -r requirements.txt
+
+
+## Run
+`cd ~/Cy
+PYTHONPATH=$PWD python3 src/main.py`
